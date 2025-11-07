@@ -3,12 +3,12 @@
     "username": "admin",
     "password": "1234",
     "id": "ID123456",
-    "balance": 75
+    "balance": 70
   },
   {
     "username": "user1",
     "password": "abcd",
     "id": "ID654321",
-    "balance": 5
+    "balance": 10
   }
 ]
